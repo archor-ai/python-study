@@ -1,0 +1,16 @@
+# def r_double_value(a):
+#     print(a + a)
+#     return a + a
+
+
+# r_double_value(2) #1st case
+
+# j = r_double_value(4)
+# print(j)   #2nd case
+
+def round(a):
+    sum = a*2
+    return sum
+
+j = round(5)
+print(j)
